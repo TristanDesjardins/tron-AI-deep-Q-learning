@@ -1,5 +1,5 @@
 # tron-AI-deep-Q-learning
-Tron AI with reinforcement learning (deep Q learning) using pytorch and pygame. Project done in my free time as a challenge. <br/> 
+Tron AI using reinforcement learning (deep Q learning) with pytorch and pygame. Project done in my free time as a challenge. <br/> 
 Probably the hardest one of all the AI projects I've done so far.
 Defining a relevant game state even for such an easy game is pretty hard. <br/> 
 Making an AI capable of dodging obstacles is not too hard, but actually using strategies to beat the enemy is another thing. I'm really happy with the results. The AI can actually play very well and beat me sometimes. Enjoy! :blush: 
