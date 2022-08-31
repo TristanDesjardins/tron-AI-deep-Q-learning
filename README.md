@@ -8,6 +8,7 @@ Making an AI capable of dodging obstacles is not too hard, but actually using st
 Just run the 'trongameai.py' to see two different AI training and playing against eachother. 
 Here's our AIs after a few hours of training : 
 
+<img src="https://user-images.githubusercontent.com/62900180/187744548-1bd110fd-51ea-4dc7-ac71-ee59f2673be0.gif" height="450">
 
 Run 'trongame.py' if you want to play yourself against the AI or your friend. 
 
