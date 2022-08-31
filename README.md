@@ -10,7 +10,7 @@ Here's our AIs after a few hours of training :
 
 <img src="https://user-images.githubusercontent.com/62900180/187744548-1bd110fd-51ea-4dc7-ac71-ee59f2673be0.gif" height="450">
 
-Run 'trongame.py' if you want to play yourself against the AI or your friend. 
+Run 'trongame.py' if you want to play against the trained AI or your friend. 
 
 ## Main files
 - trongameai.py : to train our AIs using deep Q learning 
