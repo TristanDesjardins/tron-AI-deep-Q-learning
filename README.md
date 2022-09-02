@@ -16,8 +16,6 @@ Run 'trongame.py' if you want to play against the trained AI or your friend.
 ## Main files
 - trongameai.py : to train our AIs using deep Q learning 
 - trongame.py : if 'solo' = False, you can play against your friend. If 'solo' = True, you'll play against the AI. 
-- test : bunch of files where I tried a lot of different techniques, reward strategy, game states, networks architectures etc
-
 
 ## Installation : 
 - python 3.9.12
