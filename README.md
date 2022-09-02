@@ -11,7 +11,6 @@ Making an AI capable of dodging obstacles is not too hard, but actually using st
  ![tron_training](https://user-images.githubusercontent.com/62900180/188200657-c818eb82-f89d-45fa-9910-8161710b7a84.gif) |![tron_trained](https://user-images.githubusercontent.com/62900180/188200688-c156447b-643d-4202-84d2-1914587749b2.gif)
 
 
-Run 'trongame.py' if you want to play against the trained AI or your friend. 
 
 ## Main files
 - trongameai.py : to train our AIs using deep Q learning 
