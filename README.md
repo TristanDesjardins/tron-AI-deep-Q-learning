@@ -1,4 +1,4 @@
-# Tron AI - Deep reinforcement learning
+# Tron game AI - Deep reinforcement learning
 Tron AI using deep reinforcement learning (deep Q learning) with pytorch and pygame. Project done in my free time as a challenge. <br/> 
 Probably the hardest one of all the AI projects I've done so far.
 Defining a relevant game state even for such an easy game is pretty hard. <br/> 
