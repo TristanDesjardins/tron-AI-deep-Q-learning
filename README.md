@@ -18,4 +18,6 @@ Run 'trongame.py' if you want to play against the trained AI or your friend.
 - trongame.py : if 'solo' = False, you can play against your friend. If 'solo' = True, you'll play against the AI. 
 
 ## Installation : 
-- python 3.9.12
+- Python 3.9.12
+- [pygame 2.1.2](https://www.pygame.org/news) : for the game engine 
+- [pytorch 0.4.1](https://pytorch.org/) : for the AI (Q Network) 
